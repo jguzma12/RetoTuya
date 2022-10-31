@@ -1,0 +1,15 @@
+RetoChoucair/.idea
+RetoChoucair/out
+RetoChoucair/target
+RetoChoucair/settings.gradle
+RetoChoucair/.gradle
+target/
+build/
+history/
+bin/
+.classpath
+.project
+.settings/
+.idea/
+out/
+.gradle/
