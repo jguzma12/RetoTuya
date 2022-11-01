@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="iniciar sesion en la aplicacion  DemoBlaze" skipped="0" tests="2" time="20.12" timestamp="2022-10-31 12:53:58"><testcase name=": Login exitoso"><failure message="&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.tuya.stepdefinitions.InicioSesionStepDefinitions.yoIngresoConExito(InicioSesionStepDefinitions.java:45)&#13;
+✽.Yo ingreso con exito(src/test/resources/features/iniciosesion.feature:12)&#13;
+</system-err></testcase><testcase name="El usuario inicia sesion correctamente y compara una laptop"/></testsuite>
